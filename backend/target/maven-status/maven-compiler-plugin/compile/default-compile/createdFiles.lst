@@ -1,0 +1,13 @@
+com\campusguardian\backend\controller\UserController.class
+com\campusguardian\backend\service\UserService.class
+com\campusguardian\backend\config\DepartmentSeeder.class
+com\campusguardian\backend\config\FirebaseConfig.class
+com\campusguardian\backend\controller\DepartmentController.class
+com\campusguardian\backend\controller\HelloController.class
+com\campusguardian\backend\BackendApplication.class
+com\campusguardian\backend\model\User.class
+com\campusguardian\backend\service\ComplaintService.class
+com\campusguardian\backend\service\DepartmentService.class
+com\campusguardian\backend\controller\ComplaintController.class
+com\campusguardian\backend\model\Complaint.class
+com\campusguardian\backend\model\Department.class
